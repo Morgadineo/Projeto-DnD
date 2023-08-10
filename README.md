@@ -8,5 +8,5 @@
 
 ## Tarefas
 - [ ] Criar planejamento.
-- [ ] 
-- [ ]
+- [ ] ...
+- [ ] ...
